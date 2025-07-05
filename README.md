@@ -18,7 +18,7 @@
   ## 👋 About Me
 
   **Yash Chhelavada**  
-  🚀 Final Year CS Student  
+  🚀 Final Year IT Student  
   🔒 Cybersecurity & Full-Stack Developer  
   💡 Love working on secure and scalable systems
 
