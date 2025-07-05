@@ -32,8 +32,7 @@
   - Real-time monitoring
 
   **Contact**  
-  [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
-  [Twitter](https://twitter.com/YOUR-HANDLE)
+  chhelavadayash2@gmail.com
 
   </td>
   </tr>
