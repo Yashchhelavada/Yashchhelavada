@@ -1,14 +1,40 @@
-    Hi, I'm Yash — a final-year Computer Science student focused on building impactful, security-conscious software.
+<table>
+  <tr>
+    <!-- Middle Column (Projects) -->
+    <td width="65%" valign="top">
+      
+  # 👨‍💻 Projects
 
-    I enjoy working on projects at the intersection of:
+  - 🔐 **SIEM Dashboard** – Python-based log monitoring and real-time alerting
+  - 🎯 **Phishing URL Detector** – ML model with Flask backend for URL classification
+  - 🍔 **Food Ordering App** – Full-stack app with category filtering & live cart
+  - ⚽ **Football Web App** – Live scores, finished matches, and player stats
 
-        Cybersecurity – SIEM dashboards, phishing detection systems, network traffic analysis
+  </td>
 
-        Full-Stack Development – Food ordering platforms, football web apps, real-time dashboards
+  <!-- Right Column (Bio) -->
+  <td width="35%" valign="top">
 
-        Backend Engineering – Flask APIs, SQLite/MongoDB integration, live data monitoring
+  ## 👋 About Me
 
-    🔧 Tech I work with: Python, Flask, React, MongoDB, SQLite, HTML/CSS/JS
-    🧪 Currently learning: Splunk, Elastic SIEM, advanced threat detection
-    💼 Looking for opportunities in cybersecurity, backend development, or full-stack engineering
+  **Yash Chhelavada**  
+  🚀 Final Year CS Student  
+  🔒 Cybersecurity & Full-Stack Developer  
+  💡 Love working on secure and scalable systems
 
+  **Skills**  
+  `Python` `Flask` `React`  
+  `MongoDB` `SQLite` `HTML/CSS/JS`
+
+  **Learning**  
+  - SIEM systems  
+  - Threat detection  
+  - Real-time monitoring
+
+  **Contact**  
+  [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+  [Twitter](https://twitter.com/YOUR-HANDLE)
+
+  </td>
+  </tr>
+</table>
