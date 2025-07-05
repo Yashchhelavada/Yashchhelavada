@@ -1,16 +1,14 @@
-## Hi there 👋
+    Hi, I'm Yash — a final-year Computer Science student focused on building impactful, security-conscious software.
 
-<!--
-**Yashchhelavada/Yashchhelavada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I enjoy working on projects at the intersection of:
 
-Here are some ideas to get you started:
+        Cybersecurity – SIEM dashboards, phishing detection systems, network traffic analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        Full-Stack Development – Food ordering platforms, football web apps, real-time dashboards
+
+        Backend Engineering – Flask APIs, SQLite/MongoDB integration, live data monitoring
+
+    🔧 Tech I work with: Python, Flask, React, MongoDB, SQLite, HTML/CSS/JS
+    🧪 Currently learning: Splunk, Elastic SIEM, advanced threat detection
+    💼 Looking for opportunities in cybersecurity, backend development, or full-stack engineering
+
