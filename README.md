@@ -24,7 +24,7 @@
 
   **Skills**  
   `Python` `Flask` `React`  
-  `MongoDB` `SQLite` `HTML/CSS/JS`
+  `MongoDB` `Linux` `Wireshark` 
 
   **Learning**  
   - SIEM systems  
