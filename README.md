@@ -5,10 +5,7 @@
       
   # 👨‍💻 Projects
 
-  - 🔐 **SIEM Dashboard** – Python-based log monitoring and real-time alerting
-  - 🎯 **Phishing URL Detector** – ML model with Flask backend for URL classification
-  - 🍔 **Food Ordering App** – Full-stack app with category filtering & live cart
-  - ⚽ **Football Web App** – Live scores, finished matches, and player stats
+
 
   </td>
 
