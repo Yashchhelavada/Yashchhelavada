@@ -17,7 +17,11 @@
 
   ## 👋 About Me
 
-  **Yash Chh
+  **Yash Chhelavada**  
+  🚀 Final Year IT Student  
+  🔒 Cybersecurity & Full-Stack Developer  
+  💡 Love working on secure and scalable systems
+
   **Skills**  
   `Python` `Flask` `React`  
   `MongoDB` `Linux` `Wireshark` 
