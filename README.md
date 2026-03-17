@@ -30,6 +30,7 @@
   - SIEM systems  
   - Threat detection  
   - Real-time monitoring
+  - Embedded systems
 
   **Contact**  
   chhelavadayash2@gmail.com
