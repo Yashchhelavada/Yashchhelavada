@@ -4,9 +4,9 @@
     <td width="65%" valign="top">
       
   # 👨‍💻 Projects
+  - 🛡️ **SSH Brute-Force Detector** – Log analysis tool that detects attack patterns, calculates attack velocity, and classifies threats and shows on a simple dashboard
   - 🔐 **SIEM Dashboard** – Python-based log monitoring and real-time alerting
   - 🎯 **Phishing URL Detector** – ML model with Flask backend for URL classification
-  - 🍔 **Food Ordering App** – Full-stack app with category filtering & live cart
   - ⚽ **Football Web App** – Live scores, finished matches, and player stats
 
 
@@ -19,12 +19,12 @@
 
   **Yash Chhelavada**  
   🚀 Final Year IT Student  
-  🔒 Cybersecurity & Full-Stack Developer  
+  🔒 Cybersecurity & Embedded system Developer  
   💡 Love working on secure and scalable systems
 
   **Skills**  
-  `Python` `Flask` `React`  
-  `MongoDB` `Linux` `Wireshark` 
+  `Linux` `Yocto` `Python`  
+  `OPenWrt` `SIEM` `Wireshark` 
 
   **Learning**  
   - SIEM systems  
