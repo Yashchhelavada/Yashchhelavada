@@ -5,8 +5,9 @@
       
   # 👨‍💻 Projects
   - 🛡️ **SSH Brute-Force Detector** – Log analysis tool that detects attack patterns, calculates attack velocity, and classifies threats and shows on a simple dashboard
+  - 🌐 Zero Trust Simulator – Security simulation project demonstrating zero-trust concepts, access control, and authentication workflows 
+  - 🎣 PhishGuard – Phishing detection project focused on identifying malicious URLs/web threats with practical security analysis features 
   - 🔐 **SIEM Dashboard** – Python-based log monitoring and real-time alerting
-  - 🎯 **Phishing URL Detector** – ML model with Flask backend for URL classification
   - ⚽ **Football Web App** – Live scores, finished matches, and player stats
 
 
