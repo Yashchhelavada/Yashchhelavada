@@ -14,7 +14,6 @@
 
   - 🤖 **ML Anomaly Detection System** – Machine learning pipeline for predictive analytics, anomaly detection, and operational monitoring using scikit-learn
 
-  - 🌐 **FastAPI Monitoring Dashboard** – Real-time monitoring and analytics dashboard integrating AI inference APIs and visualization systems
 
   </td>
 
